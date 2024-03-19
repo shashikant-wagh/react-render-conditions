@@ -1,0 +1,54 @@
+{
+  "name": "react-render-conditions",
+  "version": "0.0.1",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shashikant S. Wagh <shashikantwagh721@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "reactjs",
+    "switch",
+    "case",
+    "conditions",
+    'react conditions'
+    "react render condition",
+    "react render conditions",
+    "conditional render",
+    "conditional rendering",
+    "react conditional rendering",
+    "react conditional rendering component",
+    "react conditional rendering library",
+    "react conditional rendering package",
+    "react conditional rendering npm package",
+    "react conditional rendering npm library"
+  ],
+  "description": "A React component that conditionally renders its children based on a condition.",
+  "peerDependencies": {
+    "react": ">=18.2.0",
+    "react-dom": ">=18.2.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashikant-wagh/react-render-conditions.git"
+  }
+}
