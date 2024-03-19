@@ -12,8 +12,8 @@ npm install react-render-conditions
 
 ## Usage
 
-```
-import { Switch, Case, Default } from 'react-render-conditions';
+```jsx
+import { Switch, Case, Default } from "react-render-conditions";
 
 function MyComponent() {
   return (
